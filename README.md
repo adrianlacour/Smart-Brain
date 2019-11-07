@@ -1,4 +1,4 @@
-#Smart Brain##
+# Smart Brain
 
 • Created a full stack website using React, JavaScript, Node.js, and PostgreSQL.
 
